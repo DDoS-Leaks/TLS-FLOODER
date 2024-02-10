@@ -1,3 +1,12 @@
+## First install the required modules
+
+```bash
+node setup.js
+```
+`Wait until the installation is complete`
+
+## Next 
+
 # Method Flooder x Bypass V3 High Request
 
 # Update Flooder x bypass
