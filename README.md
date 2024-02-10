@@ -40,20 +40,6 @@ node setup.js
     ```bash
     node tls-bypass.js
     ```
-
-## How to use (wget)
-
-1. Download the `tls-bypass.js` script using wget:
-
-    ```bash
-    wget https://github.com/DDoS-Leaks/TLS-FLOODER/raw/main/tls-bypass.js
-    ```
-
-2. Run the `tls-bypass.js` script:
-
-    ```bash
-    node tls-bypass.js
-    ```
     
 ## Run the script
 
